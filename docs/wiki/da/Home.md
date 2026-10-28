@@ -4,7 +4,7 @@
 
 En motivationsplakat som webside, lavet kun med HTML og CSS.
 
-![Motivationsplakat](../../screenshots/desktop.png)
+![Motivationsplakat](../../../screenshots/desktop.png)
 
 ## Krav
 

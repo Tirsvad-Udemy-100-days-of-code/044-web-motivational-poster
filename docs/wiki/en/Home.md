@@ -4,7 +4,7 @@
 
 A motivational poster web page made with HTML and CSS only.
 
-![Motivational poster](../../screenshots/desktop.png)
+![Motivational poster](../../../screenshots/desktop.png)
 
 ## Requirements
 

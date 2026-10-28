@@ -27,16 +27,16 @@ index.html            the page
 style.css             the styles
 assets/images/        the poster image
 screenshots/          screenshots used in this README
-wiki/                 documentation in English, Dansk and Bahasa Malaysia
+docs/wiki/           documentation in English, Dansk and Bahasa Malaysia
 ```
 
 ## Wiki
 
 | Language | Start page |
 | --- | --- |
-| English | [wiki/en/Home.md](wiki/en/Home.md) |
-| Dansk | [wiki/da/Home.md](wiki/da/Home.md) |
-| Bahasa Malaysia | [wiki/ms/Home.md](wiki/ms/Home.md) |
+| English | [docs/wiki/en/Home.md](docs/wiki/en/Home.md) |
+| Dansk | [docs/wiki/da/Home.md](docs/wiki/da/Home.md) |
+| Bahasa Malaysia | [docs/wiki/ms/Home.md](docs/wiki/ms/Home.md) |
 
 ## Make your own poster
 

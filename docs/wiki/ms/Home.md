@@ -4,7 +4,7 @@
 
 Laman web poster motivasi yang dibina dengan HTML dan CSS sahaja.
 
-![Poster motivasi](../../screenshots/desktop.png)
+![Poster motivasi](../../../screenshots/desktop.png)
 
 ## Keperluan
 
