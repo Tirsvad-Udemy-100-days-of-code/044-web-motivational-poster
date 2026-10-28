@@ -1,10 +1,10 @@
 # Poster Motivasi
 
-**Bahasa:** [English](../en/Home.md) · [Dansk](../da/Home.md) · Bahasa Malaysia
+[English](Home) · [Dansk](Home-da) · **Bahasa Malaysia**
 
 Laman web poster motivasi yang dibina dengan HTML dan CSS sahaja.
 
-![Poster motivasi](../../../screenshots/desktop.png)
+![Poster motivasi](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/044-web-motivational-poster/raw/branch/main/screenshots/desktop.png)
 
 ## Keperluan
 
@@ -42,16 +42,16 @@ menetapkan saiz, kedudukan dan warna untuk kesemuanya.
 | `.motivation-img { width: 100%; border: 5px solid white; }` | Imej memenuhi `div` dan mendapat bingkai putih. |
 | `h1 { text-transform: uppercase; }` | Huruf besar tanpa menaip semula tajuk. |
 
-Fon Google dimuatkan dengan `<link>` dalam `<head>` fail `index.html`.
+Fon Google dimuatkan dengan `<link>` dalam `<head>` fail `src/index.html`.
 
 ## Buat poster anda sendiri
 
-1. Letakkan imej anda dalam `assets/images/`.
+1. Letakkan imej anda dalam `src/assets/images/`.
 2. Kemas kini `src` dan `alt` pada `img`.
 3. Tukar teks `h1` dan `p`.
 4. Cuba-cuba: fon, warna, lebar sempadan, jarak.
 
 ## Jalankan
 
-Buka `index.html` dalam pelayar. Sambungan internet diperlukan untuk memuatkan
+Buka `src/index.html` dalam pelayar. Sambungan internet diperlukan untuk memuatkan
 fon.

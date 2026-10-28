@@ -17,31 +17,31 @@ project of the HTML/CSS section (6.4) of the Udemy course *100 Days of Code*.
 
 ## Run it
 
-No build step. Open `index.html` in a browser (the font is loaded from Google
+No build step. Open `src/index.html` in a browser (the font is loaded from Google
 Fonts, so an internet connection is needed to see it).
 
 ## Project layout
 
 ```text
-index.html            the page
-style.css             the styles
-assets/images/        the poster image
+src/index.html        the page
+src/style.css         the styles
+src/assets/images/    the poster image
 screenshots/          screenshots used in this README
-docs/wiki/           documentation in English, Dansk and Bahasa Malaysia
+docs/wiki/            documentation in English, Dansk and Bahasa Malaysia
 ```
 
 ## Wiki
 
 | Language | Start page |
 | --- | --- |
-| English | [docs/wiki/en/Home.md](docs/wiki/en/Home.md) |
-| Dansk | [docs/wiki/da/Home.md](docs/wiki/da/Home.md) |
-| Bahasa Malaysia | [docs/wiki/ms/Home.md](docs/wiki/ms/Home.md) |
+| English | [docs/wiki/Home.md](docs/wiki/Home.md) |
+| Dansk | [docs/wiki/Home-da.md](docs/wiki/Home-da.md) |
+| Bahasa Malaysia | [docs/wiki/Home-ms.md](docs/wiki/Home-ms.md) |
 
 ## Make your own poster
 
-Change the image in `assets/images/`, then edit the `h1` and `p` text in
-`index.html`.
+Change the image in `src/assets/images/`, then edit the `h1` and `p` text in
+`src/index.html`.
 
 ## License
 
