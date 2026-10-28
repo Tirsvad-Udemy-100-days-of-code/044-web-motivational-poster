@@ -1,10 +1,10 @@
 # Motivational Poster
 
-**Languages:** English · [Dansk](../da/Home.md) · [Bahasa Malaysia](../ms/Home.md)
+**English** · [Dansk](Home-da) · [Bahasa Malaysia](Home-ms)
 
 A motivational poster web page made with HTML and CSS only.
 
-![Motivational poster](../../../screenshots/desktop.png)
+![Motivational poster](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/044-web-motivational-poster/raw/branch/main/screenshots/desktop.png)
 
 ## Requirements
 
@@ -42,16 +42,16 @@ and colour all of them.
 | `.motivation-img { width: 100%; border: 5px solid white; }` | The image fills the `div` and gets a white frame. |
 | `h1 { text-transform: uppercase; }` | Uppercase title without retyping it. |
 
-The Google Font is loaded with a `<link>` in the `<head>` of `index.html`.
+The Google Font is loaded with a `<link>` in the `<head>` of `src/index.html`.
 
 ## Make your own
 
-1. Put your image in `assets/images/`.
+1. Put your image in `src/assets/images/`.
 2. Update `src` and `alt` on the `img`.
 3. Change the text of the `h1` and `p`.
 4. Experiment: fonts, colours, border width, spacing.
 
 ## Run it
 
-Open `index.html` in a browser. An internet connection is needed to load the
+Open `src/index.html` in a browser. An internet connection is needed to load the
 font.

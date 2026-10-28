@@ -1,10 +1,10 @@
 # Motivationsplakat
 
-**Sprog:** [English](../en/Home.md) · Dansk · [Bahasa Malaysia](../ms/Home.md)
+[English](Home) · **Dansk** · [Bahasa Malaysia](Home-ms)
 
 En motivationsplakat som webside, lavet kun med HTML og CSS.
 
-![Motivationsplakat](../../../screenshots/desktop.png)
+![Motivationsplakat](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/044-web-motivational-poster/raw/branch/main/screenshots/desktop.png)
 
 ## Krav
 
@@ -42,16 +42,16 @@ placering og farve for dem alle.
 | `.motivation-img { width: 100%; border: 5px solid white; }` | Billedet fylder hele `div`'en og får en hvid ramme. |
 | `h1 { text-transform: uppercase; }` | Store bogstaver uden at skrive titlen om. |
 
-Google-skrifttypen hentes med et `<link>` i `<head>` i `index.html`.
+Google-skrifttypen hentes med et `<link>` i `<head>` i `src/index.html`.
 
 ## Lav din egen
 
-1. Læg dit billede i `assets/images/`.
+1. Læg dit billede i `src/assets/images/`.
 2. Ret `src` og `alt` på `img`.
 3. Ret teksten i `h1` og `p`.
 4. Eksperimenter: skrifttyper, farver, kantbredde, afstande.
 
 ## Kør den
 
-Åbn `index.html` i en browser. Du skal have internetforbindelse for at hente
+Åbn `src/index.html` i en browser. Du skal have internetforbindelse for at hente
 skrifttypen.
